@@ -1,6 +1,6 @@
 using System;
 
-namespace WindowsGame2
+namespace TileGame
 {
 #if WINDOWS || XBOX
     static class Program

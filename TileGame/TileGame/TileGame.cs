@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using System.IO;
 
-namespace WindowsGame2
+namespace TileGame
 {
 
     public class Main : Game

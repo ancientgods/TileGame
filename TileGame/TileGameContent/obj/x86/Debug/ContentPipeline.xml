@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_0.xnb</Output>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_0.xnb</Output>
       <Time>2014-09-23T19:41:34.2796972+02:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_1.xnb</Output>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_1.xnb</Output>
       <Time>2014-09-23T19:45:34.3494284+02:00</Time>
     </Item>
     <Item>
@@ -25,7 +25,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_2.xnb</Output>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_2.xnb</Output>
       <Time>2014-09-23T19:45:34.8694581+02:00</Time>
     </Item>
     <Item>
@@ -34,7 +34,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\bin\x86\Debug\Content\Images\Cursor.xnb</Output>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Images\Cursor.xnb</Output>
       <Time>2014-09-17T16:47:40.8672685+02:00</Time>
     </Item>
     <Item>
@@ -43,7 +43,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_3.xnb</Output>
+      <Output>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\Images\Tile_3.xnb</Output>
       <Time>2014-09-23T19:45:34.8704582+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -52,10 +52,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGameContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGameContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\WindowsGame2\TileGame\TileGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\Visual Studio 2010\Projects\TileGame\TileGame\TileGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

@@ -2,7 +2,7 @@
 using System.Reflection;
 using System;
 
-namespace WindowsGame2
+namespace TileGame
 {
     public class Camera
     {

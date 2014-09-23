@@ -9,9 +9,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using System.IO;
-using WindowsGame2;
+using TileGame;
 
-namespace WindowsGame2
+namespace TileGame
 {
     public class Player
     {
